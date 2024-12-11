@@ -1,0 +1,43 @@
+@font-face{
+    font-family: whitney;
+    src: url(../fonts/Whitney-Book.ttf)
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: Whitney;
+}
+
+.heading {
+    text-align: center;
+}
+
+table {
+    grid-area: auto;
+    grid-auto-columns: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+h6 {
+    font-size: 15px;
+}
+
+.center{
+    text-align: center;
+}
+
+a{
+    color: inherit;
+}
+
+#install{
+    text-align: center;
+}
+
+ol{
+    list-style-position: inside;
+}

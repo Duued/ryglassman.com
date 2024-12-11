@@ -1,0 +1,17 @@
+form{
+    position: relative;
+    width: 25%;
+    text-align: center;
+}
+
+textarea{
+    resize: none;
+    border-radius: 10px;
+    background-color: #1c1c1c;
+    color: white;
+}
+
+input[type=text]{
+    border-radius: 5px;
+    
+}

@@ -1,0 +1,38 @@
+.left {
+    position: relative;
+    width: fit-content;
+    height: 45%;
+}
+
+.card-container {
+    padding-top: 15px;
+    border-radius: 25px;
+    border-width: 1px;
+    border: solid gray;
+    padding-left: 35px;
+    background-color: #1c1c1c;
+    color: #467fcf;
+}
+
+
+
+.card h2 {
+    text-align: center;
+}
+
+#header {
+    text-align: center;
+}
+
+#body-div h2 {
+    text-align: center;
+}
+
+#body-div {
+    background-color: #1c1c1c;
+    border-radius: 2pt;
+    width: 520px;
+    margin: auto;
+    padding: 25px;
+    padding-top: 2px;
+}

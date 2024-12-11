@@ -1,0 +1,49 @@
+@font-face{
+    font-family: whitney;
+    src: url(../fonts/Whitney-Book.ttf)
+}
+
+body{
+    font-family: whitney;
+}
+
+h1{
+    text-align: center;
+}
+
+#project-grid{
+    padding-top: 15px;
+    color: #467fcf;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex: 1 1;
+}
+
+.card{
+    width: 320px;
+    height: 400px;
+    border: solid gray;
+    background-color: #1c1c1c;
+    border-radius: 25px;
+    border-width: 1px;
+    padding-left: 25px;
+    padding-right: 25px;
+    overflow-y: auto;
+}
+
+.card a{
+    color: #88b9ff;
+    text-decoration: dotted underline;
+}
+
+#censorship{
+    height: 550px;
+}
+
+.card img{
+    border-radius: 10px;
+}
